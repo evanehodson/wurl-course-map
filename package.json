@@ -1,0 +1,10 @@
+{
+  "name": "wurl-course-map",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Interactive 3D course map of the Wasatch Ultimate Ridge Linkup (WURL)",
+  "scripts": {
+    "dev": "npx serve .",
+    "start": "npx serve ."
+  }
+}

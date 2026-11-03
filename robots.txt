@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://evanehodson.github.io/wurl-course-map/sitemap.xml
