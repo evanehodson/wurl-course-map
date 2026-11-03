@@ -6,7 +6,7 @@ An interactive 3D course map of the **Wasatch Ultimate Ridge Linkup**: 35.6 mile
 
 ![The WURL interactive map](assets/screenshots/map-desktop.jpg)
 
-Designed and built by **Evan Hodgson** at **Sommet Innovations**.
+Designed and built by **Evan Hodson** at **Sommet Innovations**.
 
 ## What it does
 
